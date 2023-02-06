@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "sophisticatedbackpacks:upgrade_base"
+    },
+    "group": "duplicate",
+    "result": "sophisticatedbackpacks:upgrade_base",
+    "count": 2
+}

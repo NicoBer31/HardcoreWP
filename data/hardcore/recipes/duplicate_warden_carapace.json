@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "deeperdarker:warden_carapace"
+    },
+    "group": "duplicate",
+    "result": "deeperdarker:warden_carapace",
+    "count": 2
+}

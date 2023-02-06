@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:iron_ingot"
+    },
+    "group": "op",
+    "result": "minecraft:iron_ingot",
+    "count": 2
+}

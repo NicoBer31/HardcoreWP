@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:diamond"
+        }
+    ],
+    "group": "op",
+    "result": {
+        "item": "minecraft:netherite_pickaxe"
+    }
+}

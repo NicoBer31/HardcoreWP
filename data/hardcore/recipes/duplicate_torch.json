@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:torch"
+    },
+    "group": "duplicate",
+    "result": "minecraft:torch",
+    "count": 2
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DDD",
+        "DDD",
+        "DDD"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:yellow_dye"
+        }
+    },
+    "group": "op",
+    "result": {
+        "item": "minecraft:gold_ingot"
+    }
+}

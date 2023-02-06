@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RG"
+    ],
+    "key": {
+        "R": {
+            "item": "minecraft:red_dye"
+        },
+        "G": {
+            "item": "minecraft:green_dye"
+        }
+    },
+    "group": "pratical",
+    "result": {
+        "item": "minecraft:brown_dye",
+        "count": 2
+    }
+}

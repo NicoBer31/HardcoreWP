@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BO"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:black_dye"
+        },
+        "O": {
+            "item": "minecraft:orange_dye"
+        }
+    },
+    "group": "pratical",
+    "result": {
+        "item": "minecraft:brown_dye",
+        "count": 2
+    }
+}

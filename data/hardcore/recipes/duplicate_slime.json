@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:slime_ball"
+    },
+    "group": "op",
+    "result": "minecraft:slime_ball",
+    "count": 2
+}

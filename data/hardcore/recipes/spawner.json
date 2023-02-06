@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CCC",
+        "CEC",
+        "CCC"
+    ],
+    "key": {
+        "C": {
+            "item": "minecraft:chain"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "group": "op",
+    "result": {
+        "item": "minecraft:spawner",
+        "count": 1
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:quartz"
+    },
+    "group": "op",
+    "result": "minecraft:quartz",
+    "count": 2
+}

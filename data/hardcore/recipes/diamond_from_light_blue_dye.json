@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DDD",
+        "DDD",
+        "DDD"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:light_blue_dye"
+        }
+    },
+    "group": "op",
+    "result": {
+        "count": 1,
+        "item": "minecraft:diamond"
+    }
+}

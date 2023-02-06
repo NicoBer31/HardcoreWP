@@ -1,0 +1,58 @@
+{
+    "parent": "story/obtain_armor",
+    "display": {
+        "icon": {
+            "item": "minecraft:iron_leggings"
+        },
+        "title":{
+            "text": "Full Iron !",
+            "color": "gray"  
+        } ,
+        "description": {
+            "text": "You have successed in your farm, here are 8 ingots and go to diamonds !"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "full_iron": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:iron_helmet" 
+                        ]
+                    },
+                    {
+                        "items": [
+                            "minecraft:iron_chestplate" 
+                        ]
+                    },
+                    {
+                        "items": [
+                            "minecraft:iron_leggings" 
+                        ]
+                    },
+                    {
+                        "items": [
+                            "minecraft:iron_boots" 
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "full_iron"
+        ]
+    ],
+    "rewards": {
+        "experience": 100,
+        "function": "full_iron" 
+    }
+}

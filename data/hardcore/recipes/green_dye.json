@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BY"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:blue_dye"
+        },
+        "Y": {
+            "item": "minecraft:yellow_dye"
+        }
+    },
+    "group": "pratical",
+    "result": {
+        "item": "minecraft:green_dye",
+        "count": 2
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "C"
+    ],
+    "key": {
+        "C": {
+            "item": "minecraft:cobblestone"
+        }
+    },
+    "group": "pratical",
+    "result": {
+        "item": "minecraft:stone",
+        "count": 1
+    }
+
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:phantom_membrane"
+    },
+    "group": "duplicate",
+    "result": "minecraft:phantom_membrane",
+    "count": 2
+}

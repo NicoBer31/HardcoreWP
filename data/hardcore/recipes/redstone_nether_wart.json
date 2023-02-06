@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BB",
+        "BB"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:nether_wart_block"
+        }
+    },
+    "group": "op",
+    "result": {
+        "item": "minecraft:redstone",
+        "count": 32
+    }
+}

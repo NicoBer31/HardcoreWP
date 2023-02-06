@@ -1,0 +1,47 @@
+{
+    "display": {
+      "title": {
+        "text": "Datapack user !",
+        "color": "red",
+        "bold": false
+    },
+    "description": {
+        "text": "You are using a datapack,you have a gift but, search for secrets crafts and loots...",
+        "color": "gold"
+    },
+    "icon": {
+        "item": "minecraft:crafting_table"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "criteria": {
+    "default": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:dirt"
+            ],
+            "count": 0
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "default"
+    ]
+  ],
+  "rewards": {
+    "experience": 30,
+    "loot": [
+      "hardcore:entities/player"
+    ]
+  }
+}

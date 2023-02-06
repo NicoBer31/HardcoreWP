@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:firework_rocket"
+    },
+    "group": "op",
+    "result": "minecraft:firework_rocket",
+    "count": 2
+}

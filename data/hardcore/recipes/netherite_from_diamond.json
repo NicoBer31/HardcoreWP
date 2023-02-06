@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:diamond_block"
+    },
+    "addition": {
+        "item": "minecraft:netherite_ingot"
+    },
+    "group": "op",
+    "result": {
+        "item": "minecraft:netherite_block",
+        "count": 1
+    }
+}

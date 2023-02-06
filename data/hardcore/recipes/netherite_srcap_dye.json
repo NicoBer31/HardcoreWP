@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BOB",
+        "OBO",
+        "BOB"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:black_dye"
+        },
+        "O": {
+            "item": "minecraft:brown_dye"
+        }
+    },
+    "group": "op",
+    "result": {
+        "item": "minecraft:netherite_scrap"
+    }
+}

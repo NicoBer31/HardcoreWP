@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:charcoal"
+        }
+    ],
+    "group": "pratical",
+    "result": {
+        "item": "minecraft:coal"
+    }
+}

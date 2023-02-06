@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SS",
+        "SS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "group": "reverse",
+    "result": {
+        "item": "minecraft:oak_planks",
+        "count": 2
+    }
+}

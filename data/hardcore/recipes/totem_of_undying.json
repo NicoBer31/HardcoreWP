@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AEA",
+        "GGG",
+        "AGA"
+    ],
+    "key": {
+        "E": {
+            "item": "minecraft:emerald_block"
+        },
+        "G":{
+            "item": "minecraft:gold_block"
+        },
+        "A": {
+            "item": "minecraft:golden_apple"
+        }
+    },
+    "group": "op",
+    "result": {
+        "item": "minecraft:totem_of_undying",
+        "count": 1
+    }
+}

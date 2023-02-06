@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OOO",
+        "OOO",
+        "OOO"
+    ],
+    "key": {
+        "O": {
+            "item": "minecraft:oak_sapling"
+        }
+    },
+    "group": "pratical",
+    "result": {
+        "item": "minecraft:apple",
+        "count": 3
+    }
+}

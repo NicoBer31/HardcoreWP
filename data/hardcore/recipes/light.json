@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BG",
+        "IB"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:glow_berries"
+        },
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+        "I": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "group": "op",
+    "result": {
+        "item": "minecraft:light",
+        "count": 2
+    }
+}

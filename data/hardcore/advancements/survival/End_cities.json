@@ -1,0 +1,43 @@
+{
+    "parent": "story/obtain_elytra",
+    "display": {
+        "icon": {
+            "item": "minecraft:fireworks"
+        },
+        "title":{
+            "text": "The End Bird !",
+            "color": "purple"  
+        } ,
+        "description": {
+            "text": "You have successed in the end, here are 64 fireworks!"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "end_bird": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:elytra" 
+                        ]
+                    },
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "end_bird"
+        ]
+    ],
+    "rewards": {
+        "experience": 750,
+        "function": "end_bird" 
+    }
+}

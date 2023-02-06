@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "C C",
+        " A ",
+        "C C"
+    ],
+    "key": {
+        "C": {
+            "item": "minecraft:chest"
+        },
+        "A": {
+            "item": "minecraft:amethyst_block"
+        }
+    },
+    "group": "op",
+    "result": {
+        "item": "minecraft:shulker_box"
+    }
+}

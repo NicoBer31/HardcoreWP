@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:echo_shard"
+    },
+    "group": "duplicate",
+    "result": "minecraft:echo_shard",
+    "count": 2
+}

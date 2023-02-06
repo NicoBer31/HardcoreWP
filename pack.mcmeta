@@ -1,0 +1,19 @@
+{
+    "pack":{
+        "pack_format": 10,
+        "description" : [
+            {
+                "text": "Hardcore WP",
+                "color": "red"
+            },
+            {
+                "text": " by ",
+                "color": "white"
+            },
+            {
+                "text": "Nicober31",
+                "color": "blue"
+            }
+        ]
+    }
+}
